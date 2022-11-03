@@ -1,10 +1,10 @@
 body{
     background-color: #222828;
-    padding: 2%;
+    padding: 3%;
 }
 
 .principio{
-    background-color: white;
+    background-color: #C3CACA;
 }
     
 .img1{
@@ -29,4 +29,36 @@ body{
     width: 60%;
     height: 40%;
     border-radius: 40%;
+}
+
+.caja1{
+    text-align: center;
+}
+
+.linea1 {
+    width: 20%;
+}
+
+.linea2{
+    width: 30%;
+}
+
+.linea3{
+    width: 65%;
+}
+
+.linea4{
+    width: 35%;
+}
+
+.linea5{
+    width: 25%;
+}
+
+.linea6{
+    width: 48%;
+}
+
+h1{
+    margin-top: 0%;
 }
