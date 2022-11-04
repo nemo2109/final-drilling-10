@@ -6,10 +6,24 @@ body{
 .inicio{
     color: white;
     text-align: center;
+
 }
 
 .iniciop{
     color: white;
+}
+
+.img-principio{
+    width: 8%;
+    height: 8%;
+    display: flex;
+   justify-content: flex-start;
+}
+
+.img-primera{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
 }
 
 .principio{
