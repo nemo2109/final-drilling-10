@@ -3,6 +3,15 @@ body{
     padding: 3%;
 }
 
+.inicio{
+    color: white;
+    text-align: center;
+}
+
+.iniciop{
+    color: white;
+}
+
 .principio{
     background-color: #C3CACA;
 }
@@ -78,6 +87,7 @@ h1{
     display: flex;
     justify-content: center;
 }
+
 .h1{
     text-align: center;
 }
