@@ -71,7 +71,12 @@ h1{
 .final-img1{
     width: 5%;
     height: 5%;
+    float: right;
    
+}
+.img-final{
+    display: flex;
+    justify-content: center;
 }
 .h1{
     text-align: center;
