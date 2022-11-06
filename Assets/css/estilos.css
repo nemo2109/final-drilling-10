@@ -6,6 +6,8 @@ body{
 .inicio{
     color: white;
     text-align: center;
+    margin-bottom: 1%;
+   
 
 }
 
@@ -22,7 +24,13 @@ p{
 .img-principio{
     width: 7.1%;
     height: 7.1%;
+   
     
+}
+.first-box{
+   
+    justify-content: center;
+    align-items: center;
 }
 
 .titulo-img{
@@ -36,8 +44,12 @@ p{
 }
 
 .linea-inicio{
-    width: 50%;
-    text-align: center;
+    width: 30%;
+    height: 2px;
+    margin-bottom: 1px;
+    color:white;
+    background: white;
+
 }
 
 .img-primera{
