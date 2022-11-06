@@ -130,12 +130,14 @@ p{
 .final{
     background-color: #0C0C0C;
     padding: 1%;
+   
 }
 
 .final-img1{
     width: 5%;
     height: 5%;
     float: right;
+    
    
 }
 .img-final{
@@ -153,10 +155,10 @@ p{
 }
 
 .pfinal{
-    
     text-align: center;
     color: white;
     font-style: italic;
+    margin-bottom: 6%;
 }
 
 .text-final{
@@ -171,7 +173,6 @@ summary{
     color: purple;
     margin-bottom: 10%;
 }
-
 
 .ultima-caja{
    background-color: #ccdfdf;
