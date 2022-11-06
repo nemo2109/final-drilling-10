@@ -172,8 +172,14 @@ summary{
     margin-bottom: 2%;
 }
 
+
 .ultima-caja{
    background-color: #ccdfdf;
    padding: 4%;
    border-radius: 5%;
+}
+
+.final-img2{
+    width: 6%;
+    height: 6%;
 }
