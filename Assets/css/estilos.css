@@ -171,3 +171,9 @@ summary{
     color: purple;
     margin-bottom: 2%;
 }
+
+.ultima-caja{
+   background-color: #ccdfdf;
+   padding: 4%;
+   border-radius: 5%;
+}
