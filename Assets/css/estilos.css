@@ -175,11 +175,19 @@ summary{
 
 .ultima-caja{
    background-color: #ccdfdf;
-   padding: 4%;
+   padding: 1.8%;
    border-radius: 5%;
+   
 }
 
 .final-img2{
     width: 6%;
-    height: 6%;
+   
+}
+
+#img-final2{ 
+    display: flex;
+    justify-content: flex-end;
+   align-items: flex-end;
+
 }
