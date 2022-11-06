@@ -48,6 +48,7 @@ p{
 
 .principio{
     background-color: #C3CACA;
+    padding: 2%;
 }
     
 .img1{
@@ -147,6 +148,10 @@ p{
     color: white;
 }
 
+.p-h1{
+    color: white;
+}
+
 .pfinal{
     
     text-align: center;
@@ -162,5 +167,7 @@ p{
 
 summary{
     list-style: none;
-    text-transform: uppercase;
+    text-decoration: underline;
+    color: purple;
+    margin-bottom: 2%;
 }
