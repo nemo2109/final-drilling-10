@@ -225,11 +225,22 @@ summary{
 
 @media screen and (min-width: 700px) {
     body{
-        background-color:hotpink;
+        background-color:peru;
 
+    }
+    #principal-1{
+        display: flex;
+        flex-direction:row ;
     }
 
     .principio{
-        background-color:darkgrey;
+        background-color: chocolate;
     }
+
+    .linea-inicio{
+        background: rgb(3,0,255);
+        background: linear-gradient(90deg, rgba(3,0,255,1) 5%, rgba(255,0,0,1) 28%, rgba(255,110,0,1) 40%, rgba(243,255,0,1) 50%, rgba(255,131,0,1) 58%, rgba(255,0,0,1) 77%, rgba(3,0,255,1) 91%, rgba(77,0,255,0.938813025210084) 97%);
+    }
+
+   
 }
