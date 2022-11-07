@@ -75,81 +75,46 @@ p{
     background-color: #C3CACA;
     padding: 2%;
 }
-    
-.img1{
+
+.contenedor-img {
     width: 60%;
-    height: 30%;
+    height: 50%;
+}
+    
+.img-c {
+    width: 100%;
+    height: 100%;
     border-radius: 15%;
 }
 
-.img2{
-    width: 60%;
-    height: 50%;
-    border-radius: 45%;
-}
-
-.img3{
-    width: 60%;
-    height: 50%;
-    border-radius: 40%;
-}
-
-.img4{
-    width: 60%;
-    height: 40%;
-    border-radius: 40%;
-}
-
 .caja1{
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
 }
 
-.linea1 {
+.titulos-p {
+    border-top: 2px black solid;
+    padding-top: 2%;
+}
+
+/* .linea1 {
     width: 55%;
     background: black;
     height: 2px;
     margin-bottom: 1px;
-}
-
+} */
+/* 
 .linea2{
     width: 35%;
     background: black;
     height: 2px;
     margin-bottom: 1px;
     margin-top: 7%;
-}
-
-.linea3{
-    width: 69%;
-    background: black;
-    height: 2px;
-    margin-bottom: 1px;
-    margin-top: 7%;
-}
-
-.linea4{
-    width: 39%;
-    background: black;
-    height: 2px;
-    margin-bottom: 1px;
-    margin-top: 7%;
-}
-
-.linea5{
-    width: 25%;
-    background: black;
-    height: 2px;
-    margin-bottom: 1px;
-    margin-top: 7%;
-}
-
-.linea6{
-    width: 48%;
-    background: black;
-    height: 2px;
-    margin-bottom: 1px;
-    margin-top: 7%;
-}
+} */
 
 .img-principio2{
     width: 7.1%;
@@ -241,6 +206,45 @@ summary{
         background: rgb(3,0,255);
         background: linear-gradient(90deg, rgba(3,0,255,1) 5%, rgba(255,0,0,1) 28%, rgba(255,110,0,1) 40%, rgba(243,255,0,1) 50%, rgba(255,131,0,1) 58%, rgba(255,0,0,1) 77%, rgba(3,0,255,1) 91%, rgba(77,0,255,0.938813025210084) 97%);
     }
+
+    .linea1{
+        width: 35%;
+        border: none;
+
+    }
+
+    .linea2{
+        width: 25%;
+        border: none;
+
+    }
+
+    .linea3{
+        width: 43%;
+        border: none;
+
+    }
+
+    .linea4{
+        width: 28%;
+        border: none;
+
+    }
+
+    .linea5{
+        width: 15%;
+        border: none;
+        
+
+    }
+
+    .linea6{
+        width: 46%;
+        border: none;
+
+    }
+
+   
 
    
 }
