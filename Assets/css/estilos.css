@@ -11,6 +11,10 @@ body{
 
 }
 
+.img-principal{
+    width: 8%;
+}
+
 .iniciop{
     color: white;
     font-style: italic;
@@ -45,17 +49,26 @@ p{
 
 .linea-inicio{
     width: 30%;
-    height: 2px;
+    height: 3px;
     margin-bottom: 1px;
-    color:white;
-    background: white;
-
+    background: rgb(255,77,0);
+    background: linear-gradient(90deg, rgba(255,77,0,0.938813025210084) 0%, rgba(255,0,0,1) 35%, rgba(0,0,255,1) 71%, rgba(0,255,74,1) 100%);
+    border: none;
 }
 
 .img-primera{
     display: flex;
     justify-content: flex-end;
     
+}
+
+#primero{
+    background-color: #0C0C0C;
+    padding: 2%;
+}
+
+.p-inicio{
+    color: white;
 }
 
 .principio{
@@ -194,6 +207,7 @@ summary{
    background-color: #ccdfdf;
    padding: 1.8%;
    border-radius: 5%;
+   margin-bottom: 2%;
    
 }
 
@@ -210,5 +224,7 @@ summary{
 }
 
 @media screen and (min-width: 700px) {
-    
+    .principio{
+        background-color: ;
+    }
 }
