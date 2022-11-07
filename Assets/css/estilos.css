@@ -208,3 +208,7 @@ summary{
    align-items: flex-end;
 
 }
+
+@media screen and (min-width: 700px) {
+    
+}
