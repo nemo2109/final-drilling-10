@@ -189,6 +189,8 @@ summary{
 }
 
 @media screen and (min-width: 700px) {
+    
+    
     body{
         background-color:peru;
 
@@ -242,6 +244,35 @@ summary{
         width: 46%;
         border: none;
 
+    }
+
+    .img-principal{
+        width: 5%;
+
+    }
+
+    .summary{
+        margin-bottom: 0%;
+    }
+
+    #primero{
+        padding: 0%;
+    }
+
+    .p-inicio{
+        margin-top: 2%;
+        margin-bottom: 0.5%;
+        text-align: center;
+    }
+
+    .flecha{
+        
+    }
+
+    .titulo-img{
+        display: flex;
+        justify-content: center;
+        
     }
 
    
