@@ -99,6 +99,7 @@ p{
 .titulos-p {
     border-top: 2px black solid;
     padding-top: 2%;
+    margin-top: 5%;
 }
 
 /* .linea1 {
@@ -202,6 +203,7 @@ summary{
 
     .principio{
         background-color: chocolate;
+        padding: 2%;
     }
 
     .linea-inicio{
@@ -253,6 +255,8 @@ summary{
 
     .summary{
         margin-bottom: 0%;
+        display: flex;
+        justify-content: flex-end;
     }
 
     #primero{
@@ -264,16 +268,39 @@ summary{
         margin-bottom: 0.5%;
         text-align: center;
     }
-
-    .flecha{
-        
+    
+    .iniciop{
+        text-align: center;
     }
 
-    .titulo-img{
-        display: flex;
-        justify-content: center;
-        
-    }
+   p{
+    font-style:initial;
+   }
+
+   .p-h1{
+    text-align: center;
+    margin-top: 0%;
+
+}
+
+.h1{
+    font-size:x-large;
+}
+
+summary{
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+.ultima-caja{
+    background-color: chocolate;
+    
+}
+
+   
+
+
 
    
 
