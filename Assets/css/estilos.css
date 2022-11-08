@@ -267,6 +267,7 @@ summary{
         margin-top: 2%;
         margin-bottom: 0.5%;
         text-align: center;
+        font-style: italic;
     }
     
     .iniciop{
@@ -291,13 +292,32 @@ summary{
     display: flex;
     justify-content: center;
     color: black;
+    margin-bottom: 3%;
 }
 
 .ultima-caja{
     background-color: chocolate;
+    width: 80%;
+    padding: 1%;
+    margin: 0 auto;
+}
+
+.final{
+    padding: 0%;
+    background-color: chocolate;
+}
+
+.pfinal{
+    color: black;
+    font-style: initial;
+    margin-bottom: 1%;
+    margin-top: 3%;
     
 }
 
+.final-img1{
+    width: 3%;
+}
    
 
 
